@@ -6,10 +6,10 @@
 
 <u>If you need you can contact with me here</u>:
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/S3raphimCS"><img src='/S3raphimCS/S3raphimCS/raw/main/img/telegram.png' width='48px' height='48px'></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vk.com/S3raphim"><img src='/S3raphimCS/S3raphimCS/raw/main/img/vk.png' width='48px' height='48px'></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/S3raphim"><img src='/S3raphimCS/S3raphimCS/raw/main/img/steam.png' width='48px' height='48px'></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:s3raphimcs@gmail.com"><img src='/S3raphimCS/S3raphimCS/raw/main/img/gmail.png' width='48px' height='48px'></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/S3raphimCS"><img src='img/telegram.png' width='48px' height='48px'></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vk.com/S3raphim"><img src='img/vk.png' width='48px' height='48px'></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/S3raphim"><img src='img/steam 2nd var.png' width='48px' height='48px'></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:s3raphimcs@gmail.com"><img src='img/gmail.png' width='48px' height='48px'></a>
 </div><br>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
   <center><pre class='notranslate'><code>If you're here you can give me stars ⭐ or follow 😉</code></pre></center>
