@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align='center'>Hi there, I'm <a href='https://t.me/S3raphimCS'>Sergey</a>👋</h1>
 
 <!--
 **S3raphimCS/S3raphimCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime
