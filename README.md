@@ -8,7 +8,7 @@
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/S3raphimCS"><img src='img/telegram.png' width='48px' height='48px'></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vk.com/S3raphim"><img src='img/vk.png' width='48px' height='48px'></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/S3raphim"><img src='img/steam 2nd var.png' width='48px' height='48px'></a>
+  <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/S3raphim"><img src='img/steam 2nd var.png' width='48px' height='48px'></a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:s3raphimcs@gmail.com"><img src='img/gmail.png' width='48px' height='48px'></a>
 </div><br>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
