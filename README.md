@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there, I'm <a href='https://t.me/S3raphimCS'>Sergey</a>
 <img src='https://github.com/blackcater/blackcater/raw/main/images/Hi.gif' width='32px' height='32px'></h1>
 <h3 align='center'>
-3rd year community college student, beginner python developer from Russia<br>
+4th year community college student, beginner python developer from Russia<br>
 <br><b>At the moment, I have been developing in python for more than a year and a half. I was mainly involved in the development of a GUI application. I also have an understanding of OOP, functional and dynamic programming. I have some experience in frameworks such as Django, Scrapy and PyQt, and I have also worked with selenium, NumpPy, Pandas, SciPy, Matplotlib etc. Now I am studying as a programmer. Devote all my free time to programming in order to reach great heights.</b><br><br>
 
 <u>If you need you can contact with me here</u>:
