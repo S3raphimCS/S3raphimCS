@@ -22,6 +22,6 @@
 
 My LeetCode (So far empty) and CodeWars: <br>
 [![codewars](https://www.codewars.com/users/S3raphimCS/badges/large)](https://www.codewars.com/users/S3raphimCS)<br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=S3raphimCS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent](https://leetcard.jacoblin.cool/S3raphimCS?theme=catppuccinMocha&font=Noto%20Sans%20Lepcha&ext=activity))
 
  <h3 align='center'>✨ Whatever you can do or dream you can, begin it. Boldness has genius, power and magic in it ✨</h3>
