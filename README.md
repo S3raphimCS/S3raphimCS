@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there, I'm <a href='https://t.me/S3raphimCS'>Sergey</a>
 <img src='https://github.com/blackcater/blackcater/raw/main/images/Hi.gif' width='32px' height='32px'></h1>
 <h3 align='center'>
-2nd year university student with community college student education python backend developer from Russia<br>
+Student, Programmer, Gamer, Chill Guy, <s>Genius, Billionaire, Playboy, Philanthropist</s> from Russia<br>
 <br><b>At the moment, I have been developing in python for more than 3 years. I was mainly involved in the development of a Web application. I also have an understanding of OOP, functional and dynamic programming. I have experience in frameworks such as Django, Scrapy and PyQt, and I have also worked with selenium, NumpPy, Pandas, SciPy, Matplotlib etc. Now I am working as a Backend Developer. Devote all my free time to programming in order to reach great heights.</b><br><br>
 
 <u>If you need you can contact with me here</u>:
